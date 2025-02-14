@@ -69,7 +69,7 @@ python main.py
 - M4A (.m4a)
 
 ## License
-[라이센스 정보]
+- MIT license
 
 ## 참조
 - [OpenAI Whisper](https://github.com/openai/whisper)
