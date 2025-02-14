@@ -1,7 +1,7 @@
 # Whisper Audio Transcription
 
-음성 파일(.mp4, .mp3, .wav, .m4a)을 텍스트로 변환하는 도구입니다.
-[OpenAI의 Whisper 모델](https://github.com/openai/whisper)을 사용합니다.
+음성 파일(.mp4, .mp3, .wav, .m4a)을 텍스트로 변환하는 도구
+[OpenAI의 Whisper 모델](https://github.com/openai/whisper)을 사용
 
 ## 기능
 - 음성 파일을 텍스트로 자동 변환
@@ -56,7 +56,7 @@ if torch.cuda.is_available():
 ## 사용 방법
 1. `src` 폴더 생성
 2. 변환할 음성 파일을 `src` 폴더에 복사
-3. 스크립트 실행:
+3. 스크립트 실행
 ```bash
 python main.py
 ```
@@ -69,7 +69,7 @@ python main.py
 - M4A (.m4a)
 
 ## License
-[라이센스 정보]
+- MIT license
 
 ## 참조
 - [OpenAI Whisper](https://github.com/openai/whisper)
